@@ -2,3 +2,4 @@ zanahoria
 apio
 guacamole
 humus
+aceitunas
